@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonmoyDatta
 - 👀 I’m interested in travelling, reading books, exploring new places & people ...
 - 🌱 I’m currently studing B.SC in ETE at CUET and learning cyber security side by side to boost up my skills.
-- 💞️ I’m looking to collaborate on the fild of my interest.
+- 💞️ I’m looking to collaborate on the field of my interest.
 - 📫 How to reach me: There is Fb, Insta & LinkedIn associated in this profile.
 - ⚡ Fun fact: Don't care about liFe, only chill.
 
