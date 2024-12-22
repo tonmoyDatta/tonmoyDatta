@@ -1,12 +1,44 @@
-- Hi, I’m @tonmoyDatta
-- I’m interested in travelling, reading books, exploring new places & people ...
-- I’m currently studing B.SC in ETE at CUET and learning cyber security side by side to boost up my skills.
-- I’m looking to collaborate on the field of my interest.
-- How to reach me: There is Fb, Insta & LinkedIn associated in this profile.
-- I always strive to stay motivated and nurture my self-learning skills.
-- I believe life is short, and we should explore and enjoy every step of the journey.
+# Hi there, I'm Tonmoy Datta! 👋
 
-<!---
-tonmoyDatta/tonmoyDatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub followers](https://img.shields.io/github/followers/tonmoyDatta?label=Follow&style=social)](https://github.com/tonmoyDatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tonmoy-datta/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/tonsmith_495/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/tonmoy.datta.840)
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tonmoyDatta&show_icons=true&theme=radical" alt="Tonmoy's GitHub stats" />
+
+## 🌟 About Me
+
+Hey there! I'm Tonmoy Datta, a curious soul with a passion for traveling, reading books, and exploring new places and people. I'm currently pursuing a B.Sc in Electronics and Telecommunication Engineering (ETE) at CUET and enhancing my skills in cyber security.
+
+- 🎓 **Education:** B.Sc in ETE, CUET
+- 🔐 **Learning:** Cyber Security
+- 🌍 **Interests:** Traveling, Reading Books, Exploring New Cultures
+
+---
+
+## 💼 Collaboration
+
+I'm always on the lookout for exciting collaboration opportunities in my fields of interest. If you share similar passions or have a project in mind, feel free to reach out!
+
+---
+
+## 📫 How to Reach Me
+
+You can connect with me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tonmoy-datta/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/tonsmith_495/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/tonmoy.datta.840)
+
+---
+
+## 🌱 Personal Philosophy
+
+I always strive to stay motivated and nurture my self-learning skills. I believe life is short, and we should explore and enjoy every step of the journey. Let's make the most of it together!
+
+---
+
+Thanks for visiting my profile! Have a wonderful day! 😊
